@@ -1,5 +1,5 @@
 
-<h2 align="center" style="margin-bottom: 0;">Proyecto Final de Estadística <br> Predictivo de Rendimiento en Codeforces</h2>
+<h2 align="center" style="margin-bottom: 0;">Proyecto Final de Estadística <br> Análisis Predictivo de Rendimiento en Codeforces</h2>
 <h3 align="center" style="margin-bottom: 2px;">Integrantes: </h3>
 
 <p align="center">
